@@ -1,0 +1,7 @@
+name = "almhfeehhd"
+compatibility_date = "2026-02-17"
+
+[site]
+bucket = "./public"
+
+routes = ["https://almadid.pages.dev/*"]
